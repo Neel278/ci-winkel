@@ -1,6 +1,4 @@
-###################
-CI-WINKEL
-###################
+## CI-WINKEL
 
 ### Creator
 This project is created by Neel Thakkar.
